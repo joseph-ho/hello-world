@@ -1,6 +1,6 @@
 # hello-world
 
-Hi all,
+Hi there,
 
-I am interested in learning to develop universal Windows apps for my Windows 10 Phone.
-In the process I hope to learn a bit more about programing and coding in general.
+ I am interested in learning to write universal Windows apps on the Windows 10 platform.
+ Along the way I want to learn some basics to programming and design.
